@@ -12,7 +12,7 @@
 
 **Software & IDEs:**  
 - Visual Studio Code  
-- Git & GitHub  
+- Git & GitHub/ GitLab  
 
 ## 🌍 Languages
 - Finnish  
