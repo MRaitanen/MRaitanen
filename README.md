@@ -4,11 +4,10 @@
 
 **Languages:**  
 - C# | C++  
-- Python | Lua  
+- Python
 
 **Game Engines:**  
 - Unity  
-- Unreal Engine 5  
 
 **Software & IDEs:**  
 - Visual Studio Code  
