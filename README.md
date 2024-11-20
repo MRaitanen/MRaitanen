@@ -3,7 +3,7 @@
 ## 🔧 Skills & Tools
 
 **Languages:**  
-- C# | C++  
+- C#  
 - Python
 
 **Game Engines:**  
