@@ -1,23 +1,23 @@
 # 👾 Mika Raitanen | @qycelo 
 
-## 🔧 Skills & Tools
+## 🔧 Skills & Tools  
 
 **Languages:**  
 - C#  
-- Python
+- Python  
 
 **Game Engines:**  
 - Unity  
 
 **Software & IDEs:**  
 - Visual Studio Code  
-- Git & GitHub/ GitLab  
+- Git & GitHub/GitLab  
 
-## 🌍 Languages
+## 🌍 Languages  
 - Finnish  
 - English  
 
-## 📬 Connect
+## 📬 Connect  
 - **Email:** [mika@qycelo.fi](mailto:mika@qycelo.fi)  
 - **LinkedIn:** [mraitanen](https://linkedin.com/in/mraitanen)  
 - **Discord:** [@qycelo](https://discord.com/users/1268644692766101534)  
