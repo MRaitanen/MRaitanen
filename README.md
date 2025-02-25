@@ -18,7 +18,7 @@
 - English  
 
 ## 📬 Connect  
-- **Email:** [mika@qycelo.fi](mailto:mika@qycelo.fi)  
+- **Email:** [Mika.Raitanen@qycelo.fi](mailto:Mika.Raitanen@qycelo.fi)  
 - **LinkedIn:** [mraitanen](https://linkedin.com/in/mraitanen)  
 - **Discord:** [@qycelo](https://discord.com/users/1268644692766101534)  
 
