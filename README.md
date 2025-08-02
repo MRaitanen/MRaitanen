@@ -4,7 +4,8 @@
 
 **Languages:**  
 - C#  
-- Python  
+- Python
+- GO
 
 **Game Engines:**  
 - Unity  
