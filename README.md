@@ -5,7 +5,6 @@
 **Languages:**  
 - C#  
 - Python
-- GO
 
 **Game Engines:**  
 - Unity  
